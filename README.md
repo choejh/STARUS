@@ -1,5 +1,6 @@
 # STARUS
 파스너스의 STARUS KIOSK 프로젝트(with js, css, jquery, html)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/71997987/113098312-498e9300-9233-11eb-823f-62380633a727.gif)
 
 ![스타어스2 ](https://user-images.githubusercontent.com/71997987/112931635-81c0a380-9157-11eb-8c70-d2c7b998fbb7.png)
 ![슬라이드1](https://user-images.githubusercontent.com/71997987/112931639-838a6700-9157-11eb-8840-957ae8fe10dc.PNG)
