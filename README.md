@@ -19,8 +19,10 @@
 ![슬라이드15](https://user-images.githubusercontent.com/71997987/112931685-91d88300-9157-11eb-949d-4949eb78d7e9.PNG)
 ![슬라이드16](https://user-images.githubusercontent.com/71997987/112931687-92711980-9157-11eb-9de6-619faa59b466.PNG)
 ![슬라이드17](https://user-images.githubusercontent.com/71997987/112931688-92711980-9157-11eb-9115-25dbaaf75db7.PNG)
+## JIHYE
 ![슬라이드18](https://user-images.githubusercontent.com/71997987/112931689-9309b000-9157-11eb-88c8-928a28d4c725.PNG)
 ![슬라이드19](https://user-images.githubusercontent.com/71997987/112931691-9309b000-9157-11eb-9fa2-20caace36b33.PNG)
+### JIHYE END
 ![슬라이드20](https://user-images.githubusercontent.com/71997987/112931693-93a24680-9157-11eb-8dfe-fab99dc4574b.PNG)
 ![슬라이드21](https://user-images.githubusercontent.com/71997987/112931695-943add00-9157-11eb-8496-ae3de6bb1eea.PNG)
 ![슬라이드22](https://user-images.githubusercontent.com/71997987/112931697-943add00-9157-11eb-9f30-7f63c1c9a5d8.PNG)
